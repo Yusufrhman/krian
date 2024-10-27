@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="w-full h-[90dvh] flex flex-col items-center justify-center gap-10">
+    <main className="w-full my-20 flex flex-col items-center justify-center gap-10">
       <h1 className="text-main-green font-bold text-2xl 2xl:text-3xl text-center mx-auto w-fit">
         Syarat Pembuatan E-KTP
       </h1>
